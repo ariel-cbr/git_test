@@ -1,1 +1,3 @@
 Tratando de entender como funciona GIT
+
+Algo entendi ahora, pero falta
