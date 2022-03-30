@@ -1,0 +1,1 @@
+Tratando de entender como funciona GIT
